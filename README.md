@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">oi! meu nome é stefany, tenho 23 anos e formada em medicina veterinária</div>  
+### <div align="center">Science Enthusiast!</div>  
   
 
-<div align="center">aprendendo programação 🤓</div>  
+<div align="center">23y | Veterinarian | VET.IA</div>  
   
 
 <br/>  
